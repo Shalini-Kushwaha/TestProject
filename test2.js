@@ -1,1 +1,1 @@
-var app="app";
+var app="test2";
