@@ -1,1 +1,1 @@
-var app="app changed";
+var app="app changed in child";
